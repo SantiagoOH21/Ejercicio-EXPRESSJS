@@ -6,10 +6,10 @@ Express es un framework web transigente, escrito en JavaScript y alojado dentro 
 
 ## ¿Cuáles son los principales objetivos de este proyecto?
 
-⦁ Manejar Node js
-⦁ Entender cómo interactuar con Express js
-⦁ Aprender a manejar Express js
-⦁ Manejar NPM
+- Manejar Node js
+- Entender cómo interactuar con Express js
+- Aprender a manejar Express js
+- Manejar NPM
 
 ## 1.1. Ejercicios
 
