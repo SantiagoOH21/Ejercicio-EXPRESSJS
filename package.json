@@ -1,0 +1,28 @@
+{
+  "name": "ejercicio-expressjs",
+  "version": "1.0.0",
+  "main": "e1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoOH21/Ejercicio-EXPRESSJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoOH21/Ejercicio-EXPRESSJS/issues"
+  },
+  "homepage": "https://github.com/SantiagoOH21/Ejercicio-EXPRESSJS#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
