@@ -134,7 +134,4 @@ app.get("/products/filter/nombre/:nombre", (req, res) => {
   });
 });
 
-// Iniciar el servidor
-app.listen(port, () => {
-  console.log(`Servidor escuchando en http://localhost:${port}`);
-});
+app.listen(port, () => console.log(`Servidor levantado en el puerto ${port}`));
